@@ -1,2 +1,0 @@
-# odrsa
-ODRSA attendance portal
